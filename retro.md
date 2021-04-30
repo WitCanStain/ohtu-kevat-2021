@@ -1,1 +1,4 @@
 
+Start, Stop, Continue, More of, Less of Wheel-suunnitelma on tapa suorittaa sprint-retrospektiviiä. Tässä mallissa retrospektiivi toteutetaan siten, että paperille piirretään ympyrä joka jaetaan viiteen osaan: start, stop, continue, more of, ja less of-osioihin. Palaverin vetäjä sitten kysyy osallistujilta, mitä asioita kuuluu mihinkin osioon: mitä kannattaisi aloittaa tekemään, minkä tekeminen kannattaisi lopettaa, mitä kannattaisi jatkaa, mitä tarvittaisiin lisää ja mitä taas vähemmän. Kokouksen vetäjä odottaa kommentteja ja taltioi ne taululle asianmukaiseen kategoriaan. 
+
+Glad, Sad, Mad-mallissa taas osallistujat aloittavat listaamalla ongelmia, muutoksia tai havaintoja joita tapahtui sprintin aikana. Tämän jälkeen ne kategorisoidaan asioihin jotka tiimin mielestä olivat positiivisia asioita, negatiivisia asioita, tai valituksen aiheita, joiden ei siis tarvitse välttämättä olla ainoastaan tiimin sisäisiin tekoihin liittyviä. 
